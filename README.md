@@ -1,1 +1,1 @@
-# panel-dashboard
+# Simple TypeScript API Initial Structure
